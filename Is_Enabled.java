@@ -1,13 +1,8 @@
-package SeleniumAssignment.SeleniumAft;
-
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+package WebElement.java;
 
 public class Is_Enabled {
+
 	public static void main(String[] args) {
-		WebDriver driver=new ChromeDriver();
-		
 		
 	}
-
 }
